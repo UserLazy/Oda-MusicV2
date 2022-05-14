@@ -25,7 +25,7 @@ Type » /help « To View List of Commands!
                         "➕ Tambahkan Ke Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                         "🤖 Assistant", url=f"https://t.me/{ASSISTANT_USERNAME}"
+                         "🤖 Assistant", url=f"https://t.me/{ASSUSERNAME}"
                     ),
                     InlineKeyboardButton(
                         "🛠 Repo", url="https://github.com/UserLazy/OdaMusic"
